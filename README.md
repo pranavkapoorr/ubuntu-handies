@@ -2,6 +2,8 @@
 
 ### Upgrading from Ubuntu 16.04 to 18.04
 
+![](https://raw.githubusercontent.com/pranavkapoorr/ubuntu-handies/master/resources/update-ubuntu.jpeg)
+
 #### Step 1:
 
 `$ sudo apt update`
