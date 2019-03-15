@@ -6,3 +6,6 @@
 
 
 [X] [Install VS Code](https://github.com/pranavkapoorr/ubuntu-handies/tree/master/install%20vs-code)
+
+
+[X] [Install JAVA](https://github.com/pranavkapoorr/ubuntu-handies/tree/master/install%20Java)
